@@ -1,0 +1,4 @@
+﻿  Damas.cpp
+C:\Users\vitor\source\repos\Damas\Damas\Damas.cpp(291,3): warning C4551: faltando lista de argumentos na chamada de função
+C:\Users\vitor\source\repos\Damas\Damas\Damas.cpp(311,3): warning C4551: faltando lista de argumentos na chamada de função
+  Damas.vcxproj -> C:\Users\vitor\source\repos\Damas\x64\Debug\Damas.exe
